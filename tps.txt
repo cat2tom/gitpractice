@@ -1,0 +1,3 @@
+# gitpractice
+use to practice git command line
+A good way to go. 
